@@ -1,5 +1,6 @@
 #News Agency
-this project is about a news agency
+
+This project is about a news agency
 in this project I used the adapter pattern to connect classes that cannot work with each other
 decorator pattern for sending notification
 observer pattern to notify users about new news and posts
