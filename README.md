@@ -1,4 +1,4 @@
-#News Agency
+# News Agency
 
 This project is about a news agency
 in this project I used the adapter pattern to connect classes that cannot work with each other. 
